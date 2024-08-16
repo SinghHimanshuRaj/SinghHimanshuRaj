@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Kumar Singh
 - 👀 I’m interested in learning and implementing new methodologies on data.
 - 🌱 I’m currently being trained to be a Data Scientist
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me - www.linkedin.com/in/himanshu-kumar-singh-4b3945251
